@@ -1,0 +1,85 @@
+Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\dev\pg\200621\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:RightUpLeg, index:  1
+		processing begun of bone:  mixamorig:RightLeg, index:  2
+		processing begun of bone:  mixamorig:RightFoot, index:  3
+		processing begun of bone:  mixamorig:RightToeBase, index:  4
+		processing begun of bone:  mixamorig:RightToe_End, index:  5
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  6
+		processing begun of bone:  mixamorig:LeftLeg, index:  7
+		processing begun of bone:  mixamorig:LeftFoot, index:  8
+		processing begun of bone:  mixamorig:LeftToeBase, index:  9
+		processing begun of bone:  mixamorig:LeftToe_End, index:  10
+		processing action CrouchBackward:  in[1 - 31], out[0 - 31]
+		processing action CrouchBackwardLeft:  in[1 - 31], out[40 - 71]
+		processing action CrouchBackwardRight:  in[1 - 31], out[80 - 111]
+		processing action CrouchForward:  in[1 - 31], out[120 - 151]
+		processing action CrouchForwardLeft:  in[1 - 31], out[160 - 191]
+		processing action CrouchForwardRight:  in[1 - 31], out[200 - 231]
+		processing action CrouchLeft:  in[1 - 31], out[240 - 271]
+		processing action CrouchRight:  in[1 - 31], out[280 - 311]
+		processing action JumpAir:  in[1 - 31], out[320 - 351]
+		processing action JumpDown:  in[1 - 21], out[360 - 381]
+		processing action JumpUp:  in[1 - 17], out[390 - 407]
+		processing action RunBackward:  in[1 - 16], out[420 - 436]
+		processing action RunBackwardLeft:  in[1 - 16], out[450 - 466]
+		processing action RunBackwardRight:  in[1 - 16], out[480 - 496]
+		processing action RunForward:  in[1 - 16], out[510 - 526]
+		processing action RunForwardLeft:  in[1 - 16], out[540 - 556]
+		processing action RunForwardRight:  in[1 - 16], out[570 - 586]
+		processing action RunLeft:  in[1 - 16], out[600 - 616]
+		processing action RunRight:  in[1 - 16], out[630 - 646]
+		processing action Tpose:  in[1 - 2], out[660 - 662]
+	processing begun of mesh:  Alpha_Joints
+		processing begun of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  3791
+		num normals        :  3791
+		num tangents       :  15164
+		num uvs            :  7582
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  6080
+		Skeleton stats:  
+			Total Influencers:  3791
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  3791
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  15164
+	processing begun of mesh:  Alpha_Surface
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  10106
+		num normals        :  10106
+		num tangents       :  40424
+		num uvs            :  20212
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  11596
+		Skeleton stats:  
+			Total Influencers:  10106
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  10106
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  40424
+========= Writing of JSON file started =========
+	writing mesh:  Alpha_Joints
+	writing mesh:  Alpha_Surface
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.8347 secs
