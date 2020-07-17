@@ -1,0 +1,44 @@
+Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\dev\pg\200621\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	WARNING: The following armature not visible in scene thus ignored: Armature
+	processing begun of mesh:  Alpha_Joints
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  473
+		num normals        :  473
+		num tangents       :  1892
+		num uvs            :  946
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  608
+	processing begun of mesh:  Alpha_Surface
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  1636
+		num normals        :  1636
+		num tangents       :  6544
+		num uvs            :  3272
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1738
+========= Writing of JSON file started =========
+	writing mesh:  Alpha_Joints
+	writing mesh:  Alpha_Surface
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3987 secs
