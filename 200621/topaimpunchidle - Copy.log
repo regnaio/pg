@@ -1,0 +1,59 @@
+Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\dev\pg\200621\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	WARNING: The following armature not visible in scene thus ignored: Armature
+	processing begun of mesh:  Alpha_Joints
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  1218
+		num normals        :  1218
+		num tangents       :  4872
+		num uvs            :  2436
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1400
+	processing begun of mesh:  Alpha_Joints.001
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  242
+		num normals        :  242
+		num tangents       :  968
+		num uvs            :  484
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  380
+	processing begun of mesh:  Alpha_Surface
+		animation processing begun
+			processing action Tpose:  in[1 - 2], out[0 - 2]
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  5274
+		num normals        :  5274
+		num tangents       :  21096
+		num uvs            :  10548
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5720
+========= Writing of JSON file started =========
+	writing mesh:  Alpha_Joints
+	writing mesh:  Alpha_Joints.001
+	writing mesh:  Alpha_Surface
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 2.2149 secs
