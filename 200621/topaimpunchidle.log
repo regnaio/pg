@@ -79,59 +79,59 @@ Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
 	processing begun of mesh:  Alpha_Joints
 		processing begun of material:  Material.001
 		Custom split normals with tangents being used
-		num positions      :  9385
-		num normals        :  9385
-		num tangents       :  37540
-		num uvs            :  18770
+		num positions      :  2547
+		num normals        :  2547
+		num tangents       :  10188
+		num uvs            :  5094
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  14000
+		num triangles      :  3500
 		Skeleton stats:  
-			Total Influencers:  9385
-			Avg # of influencers per vertex:  1
-			Highest # of influencers observed:  1, num vertices with this:  9385
-			exported as 1 influencers
-			num skeletonWeights and skeletonIndices:  37540
+			Total Influencers:  0
+			Avg # of influencers per vertex:  0
+			Highest # of influencers observed:  0, num vertices with this:  2547
+			exported as 0 influencers
+			num skeletonWeights and skeletonIndices:  10188
 	processing begun of mesh:  Alpha_Joints.001
 		processing begun of material:  Material.001
 		registered as also a user of material:  Material.001
 		Custom split normals with tangents being used
-		num positions      :  476
-		num normals        :  476
-		num tangents       :  1904
-		num uvs            :  952
+		num positions      :  242
+		num normals        :  242
+		num tangents       :  968
+		num uvs            :  484
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  760
+		num triangles      :  380
 		Skeleton stats:  
-			Total Influencers:  476
-			Avg # of influencers per vertex:  1
-			Highest # of influencers observed:  1, num vertices with this:  476
-			exported as 1 influencers
-			num skeletonWeights and skeletonIndices:  1904
+			Total Influencers:  0
+			Avg # of influencers per vertex:  0
+			Highest # of influencers observed:  0, num vertices with this:  242
+			exported as 0 influencers
+			num skeletonWeights and skeletonIndices:  968
 	processing begun of mesh:  Alpha_Surface
 		animation processing begun
 			processing action Tpose:  in[1 - 2], out[0 - 2]
 		processing begun of material:  Material.001
 		registered as also a user of material:  Material.001
 		Custom split normals with tangents being used
-		num positions      :  22858
-		num normals        :  22858
-		num tangents       :  91432
-		num uvs            :  45716
+		num positions      :  5274
+		num normals        :  5274
+		num tangents       :  21096
+		num uvs            :  10548
 		num uvs2           :  0
 		num colors         :  0
-		num triangles      :  22884
+		num triangles      :  5720
 		Skeleton stats:  
-			Total Influencers:  30491
-			Avg # of influencers per vertex:  1.3339
-			Highest # of influencers observed:  4, num vertices with this:  365
-			exported as 4 influencers
-			num skeletonWeights and skeletonIndices:  91432
+			Total Influencers:  0
+			Avg # of influencers per vertex:  0
+			Highest # of influencers observed:  0, num vertices with this:  5274
+			exported as 0 influencers
+			num skeletonWeights and skeletonIndices:  21096
 ========= Writing of JSON file started =========
 	writing mesh:  Alpha_Joints
 	writing mesh:  Alpha_Joints.001
 	writing mesh:  Alpha_Surface
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 13.6807 secs
+elapsed time:  0 min, 36.8962 secs
