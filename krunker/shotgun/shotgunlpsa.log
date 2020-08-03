@@ -1,0 +1,29 @@
+Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\dev\pg\krunker\shotgun\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Cube.002_Cube.008
+		processing begun of material:  None
+		Custom split normals with tangents being used
+		num positions      :  6907
+		num normals        :  6907
+		num tangents       :  27628
+		num uvs            :  13814
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3139
+========= Writing of JSON file started =========
+	writing mesh:  Cube.002_Cube.008
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.3147 secs
