@@ -1,0 +1,323 @@
+Exporter version: 6.4.1, Blender version: 2.81 (sub 16)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\dev\pg\custom\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  mixamorig:Hips, index:  0
+		processing begun of bone:  mixamorig:Spine, index:  1
+		processing begun of bone:  mixamorig:Spine1, index:  2
+		processing begun of bone:  mixamorig:Spine2, index:  3
+		processing begun of bone:  mixamorig:Neck, index:  4
+		processing begun of bone:  mixamorig:Head, index:  5
+		processing begun of bone:  mixamorig:HeadTop_End, index:  6
+		processing begun of bone:  mixamorig:LeftShoulder, index:  7
+		processing begun of bone:  mixamorig:LeftArm, index:  8
+		processing begun of bone:  mixamorig:LeftForeArm, index:  9
+		processing begun of bone:  mixamorig:LeftHand, index:  10
+		processing begun of bone:  mixamorig:LeftHandIndex1, index:  11
+		processing begun of bone:  mixamorig:LeftHandIndex2, index:  12
+		processing begun of bone:  mixamorig:LeftHandIndex3, index:  13
+		processing begun of bone:  mixamorig:LeftHandIndex4, index:  14
+		processing begun of bone:  mixamorig:RightShoulder, index:  15
+		processing begun of bone:  mixamorig:RightArm, index:  16
+		processing begun of bone:  mixamorig:RightForeArm, index:  17
+		processing begun of bone:  mixamorig:RightHand, index:  18
+		processing begun of bone:  mixamorig:RightHandIndex1, index:  19
+		processing begun of bone:  mixamorig:RightHandIndex2, index:  20
+		processing begun of bone:  mixamorig:RightHandIndex3, index:  21
+		processing begun of bone:  mixamorig:RightHandIndex4, index:  22
+		processing begun of bone:  mixamorig:LeftUpLeg, index:  23
+		processing begun of bone:  mixamorig:LeftLeg, index:  24
+		processing begun of bone:  mixamorig:LeftFoot, index:  25
+		processing begun of bone:  mixamorig:LeftToeBase, index:  26
+		processing begun of bone:  mixamorig:LeftToe_End, index:  27
+		processing begun of bone:  mixamorig:RightUpLeg, index:  28
+		processing begun of bone:  mixamorig:RightLeg, index:  29
+		processing begun of bone:  mixamorig:RightFoot, index:  30
+		processing begun of bone:  mixamorig:RightToeBase, index:  31
+		processing begun of bone:  mixamorig:RightToe_End, index:  32
+		processing action RunForward:  in[1 - 16], out[0 - 16]
+		processing action TPose:  in[1 - 2], out[30 - 32]
+	processing begun of mesh:  Cube.005
+		processing begun of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  596
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  332
+			Avg # of influencers per vertex:  2.2282
+			Highest # of influencers observed:  3, num vertices with this:  34
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  596
+	processing begun of mesh:  Cube.003
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  596
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  318
+			Avg # of influencers per vertex:  2.1342
+			Highest # of influencers observed:  3, num vertices with this:  73
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  596
+	processing begun of mesh:  Cube.006
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  604
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  394
+			Avg # of influencers per vertex:  2.6093
+			Highest # of influencers observed:  3, num vertices with this:  92
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  604
+	processing begun of mesh:  Cube.009
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  596
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  465
+			Avg # of influencers per vertex:  3.1208
+			Highest # of influencers observed:  4, num vertices with this:  18
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  596
+	processing begun of mesh:  Cube.014
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  150
+		num normals        :  150
+		num tangents       :  600
+		num uvs            :  300
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  443
+			Avg # of influencers per vertex:  2.9533
+			Highest # of influencers observed:  4, num vertices with this:  32
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  600
+	processing begun of mesh:  Cube.013
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  592
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  511
+			Avg # of influencers per vertex:  3.4527
+			Highest # of influencers observed:  4, num vertices with this:  79
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  592
+	processing begun of mesh:  Cube.010
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  604
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  417
+			Avg # of influencers per vertex:  2.7616
+			Highest # of influencers observed:  4, num vertices with this:  35
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  604
+	processing begun of mesh:  Cube.004
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  592
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  220
+			Avg # of influencers per vertex:  1.4865
+			Highest # of influencers observed:  2, num vertices with this:  72
+			exported as 2 influencers
+			num skeletonWeights and skeletonIndices:  592
+	processing begun of mesh:  Cube.007
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  596
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  335
+			Avg # of influencers per vertex:  2.2483
+			Highest # of influencers observed:  3, num vertices with this:  37
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  596
+	processing begun of mesh:  Cube.002
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  148
+		num normals        :  148
+		num tangents       :  592
+		num uvs            :  296
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  348
+			Avg # of influencers per vertex:  2.3514
+			Highest # of influencers observed:  4, num vertices with this:  35
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  592
+	processing begun of mesh:  Cube.012
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  151
+		num normals        :  151
+		num tangents       :  604
+		num uvs            :  302
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  457
+			Avg # of influencers per vertex:  3.0265
+			Highest # of influencers observed:  4, num vertices with this:  4
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  604
+	processing begun of mesh:  Cube.011
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  596
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  509
+			Avg # of influencers per vertex:  3.4161
+			Highest # of influencers observed:  4, num vertices with this:  62
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  596
+	processing begun of mesh:  Cube
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  146
+		num normals        :  146
+		num tangents       :  584
+		num uvs            :  292
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  404
+			Avg # of influencers per vertex:  2.7671
+			Highest # of influencers observed:  4, num vertices with this:  38
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  584
+	processing begun of mesh:  Cube.001
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  145
+		num normals        :  145
+		num tangents       :  580
+		num uvs            :  290
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  400
+			Avg # of influencers per vertex:  2.7586
+			Highest # of influencers observed:  4, num vertices with this:  38
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  580
+	processing begun of mesh:  Cube.008
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		Custom split normals with tangents being used
+		num positions      :  150
+		num normals        :  150
+		num tangents       :  600
+		num uvs            :  300
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  108
+		Skeleton stats:  
+			Total Influencers:  414
+			Avg # of influencers per vertex:  2.76
+			Highest # of influencers observed:  4, num vertices with this:  33
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  600
+========= Writing of JSON file started =========
+	writing mesh:  Cube.005
+	writing mesh:  Cube.003
+	writing mesh:  Cube.006
+	writing mesh:  Cube.009
+	writing mesh:  Cube.014
+	writing mesh:  Cube.013
+	writing mesh:  Cube.010
+	writing mesh:  Cube.004
+	writing mesh:  Cube.007
+	writing mesh:  Cube.002
+	writing mesh:  Cube.012
+	writing mesh:  Cube.011
+	writing mesh:  Cube
+	writing mesh:  Cube.001
+	writing mesh:  Cube.008
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.7458 secs
